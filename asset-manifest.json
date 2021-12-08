@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/khaled-atef.github.io/Redux_Check_Point/static/css/main.61687d14.chunk.css",
-    "main.js": "/khaled-atef.github.io/Redux_Check_Point/static/js/main.f0c9c41f.chunk.js",
-    "main.js.map": "/khaled-atef.github.io/Redux_Check_Point/static/js/main.f0c9c41f.chunk.js.map",
-    "runtime-main.js": "/khaled-atef.github.io/Redux_Check_Point/static/js/runtime-main.43be9da8.js",
-    "runtime-main.js.map": "/khaled-atef.github.io/Redux_Check_Point/static/js/runtime-main.43be9da8.js.map",
-    "static/js/2.160d19bd.chunk.js": "/khaled-atef.github.io/Redux_Check_Point/static/js/2.160d19bd.chunk.js",
-    "static/js/2.160d19bd.chunk.js.map": "/khaled-atef.github.io/Redux_Check_Point/static/js/2.160d19bd.chunk.js.map",
-    "static/js/3.fba386c0.chunk.js": "/khaled-atef.github.io/Redux_Check_Point/static/js/3.fba386c0.chunk.js",
-    "static/js/3.fba386c0.chunk.js.map": "/khaled-atef.github.io/Redux_Check_Point/static/js/3.fba386c0.chunk.js.map",
-    "index.html": "/khaled-atef.github.io/Redux_Check_Point/index.html",
-    "static/css/main.61687d14.chunk.css.map": "/khaled-atef.github.io/Redux_Check_Point/static/css/main.61687d14.chunk.css.map",
-    "static/js/2.160d19bd.chunk.js.LICENSE.txt": "/khaled-atef.github.io/Redux_Check_Point/static/js/2.160d19bd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/khaled-atef.github.io/Redux_Check_Point/static/media/logo.6ce24c58.svg"
+    "main.css": "/Redux_Check_Point/static/css/main.61687d14.chunk.css",
+    "main.js": "/Redux_Check_Point/static/js/main.f0c9c41f.chunk.js",
+    "main.js.map": "/Redux_Check_Point/static/js/main.f0c9c41f.chunk.js.map",
+    "runtime-main.js": "/Redux_Check_Point/static/js/runtime-main.ba7dce66.js",
+    "runtime-main.js.map": "/Redux_Check_Point/static/js/runtime-main.ba7dce66.js.map",
+    "static/js/2.160d19bd.chunk.js": "/Redux_Check_Point/static/js/2.160d19bd.chunk.js",
+    "static/js/2.160d19bd.chunk.js.map": "/Redux_Check_Point/static/js/2.160d19bd.chunk.js.map",
+    "static/js/3.fba386c0.chunk.js": "/Redux_Check_Point/static/js/3.fba386c0.chunk.js",
+    "static/js/3.fba386c0.chunk.js.map": "/Redux_Check_Point/static/js/3.fba386c0.chunk.js.map",
+    "index.html": "/Redux_Check_Point/index.html",
+    "static/css/main.61687d14.chunk.css.map": "/Redux_Check_Point/static/css/main.61687d14.chunk.css.map",
+    "static/js/2.160d19bd.chunk.js.LICENSE.txt": "/Redux_Check_Point/static/js/2.160d19bd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Redux_Check_Point/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43be9da8.js",
+    "static/js/runtime-main.ba7dce66.js",
     "static/js/2.160d19bd.chunk.js",
     "static/css/main.61687d14.chunk.css",
     "static/js/main.f0c9c41f.chunk.js"
